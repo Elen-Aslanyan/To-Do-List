@@ -5,11 +5,11 @@
 }
 
 body{
-    background-color: lightpink;
+    background-color: white;
 }
 
 body.dark-mode{
-    background-color: rgb(89, 44, 132);
+    background-color: black;
 }
 
 nav{
@@ -27,7 +27,7 @@ nav{
 h1{
     text-align: center;
     margin-top: 300px;
-    color: gray;
+    color: #ff7b6b;
     font-family: 'Caveat';
     font-size: 50px;
     
@@ -47,7 +47,7 @@ h1{
 p{
     font-family: 'Caveat';
     font-size: 50px;
-    color: gray;
+    color: #ff7b6b;
 
 }
 
@@ -55,7 +55,7 @@ p{
 
 
 .welcomebutton{
-    color: gray;
+    color: #ff7b6b;
     width: 100px;
     height: 50px;
     margin-left: 30px;
